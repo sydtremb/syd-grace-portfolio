@@ -1,0 +1,8 @@
+title: My Portfolio
+name: Syd Tremblay
+email: sydneytremblay05@gmail.com
+
+collection:
+  design:
+    output: true
+    permalink: :/collection/:path/
