@@ -1,2 +1,51 @@
 /* CSS Document */
+.container-box {
+	width: 1920px;
+	height: 3890px;
+	background-color: #EEDBFF;
+	padding: 20px;
+	margin: 10px auto;
+}
 
+.main-logo {
+	width:790px;
+	height: 390px;
+	background-color: #EEDBFF;
+	padding: 20px;
+	margin: 10px auto;
+}
+
+.swatch-container{
+	display:flex;
+	justify-content: space-around;
+	align-items: flex-start;
+}
+
+.primary-colour {
+	width: 350px;
+	height: 285px;
+	background-color: #39154E;
+	padding: 5px;
+	
+	
+}
+.secondary-colour {
+	width: 350px;
+	height: 285px;
+	background-color: #353293;
+	padding: 5px;
+}
+
+.tertiary-colour {
+	width: 350px;
+	height: 285px;
+	background-color: #4A92C7;
+	padding: 5px;
+}
+
+.accent-colour {
+	width: 350px;
+	height: 285px;
+	background-color: #52A387;
+	padding: 5px;
+}
