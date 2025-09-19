@@ -10,15 +10,62 @@
 .main-logo {
 	width:790px;
 	height: 390px;
-	background-color: #EEDBFF;
 	padding: 20px;
 	margin: 10px auto;
+}
+
+.logo-header{
+	display:flex;
+	justify-content: space-around;
+	align-items: flex-start;
+	padding-bottom: 10px;
+}
+
+.logo-container{
+	display:flex;
+	justify-content: space-around;
+	align-items: flex-start;
+	padding-bottom: 120px;
+}
+	
+.logotype {
+	width:370px;
+	height: 400px;
+	padding: 20px;
+	
+}
+
+.brandmark {
+	width:370px;
+	height: 400px;
+	padding: 20px;
+	
+}
+
+.submark {
+	width:370px;
+	height: 400px;
+	padding: 20px;
+	
 }
 
 .swatch-container{
 	display:flex;
 	justify-content: space-around;
 	align-items: flex-start;
+	padding-bottom:10px ;
+}
+
+.header {
+	padding-left:60px;
+	font-size: 64px;
+}
+
+.hexcodes{
+	display:flex;
+	justify-content: space-around;
+	align-items: flex-start;
+	padding-bottom:120px ;
 }
 
 .primary-colour {
@@ -48,4 +95,79 @@
 	height: 285px;
 	background-color: #52A387;
 	padding: 5px;
+}
+
+.colour-swatch{
+	display:flex;
+	justify-content: space-around;
+	align-items: flex-start;
+	padding-bottom: 10px;
+}
+
+.type-container{
+	display:flex;
+	justify-content: space-around;
+	align-items: flex-start;
+}
+
+.kavoon{
+	font-size: 128px;
+	padding-right:61px;
+}
+
+.encode-sans{
+	font-size: 120px;
+}
+
+.brand-imagery1{
+	display:flex;
+	justify-content: space-around;
+	align-items: flex-start;
+	padding-bottom:70px;
+}
+
+.image-1{
+	width:505px;
+	height: 631px;
+	padding: 5px;
+}
+
+.image-2{
+	width:569px;
+	height: 624px;
+	padding: 5px;
+}
+
+.image-3{
+	width:447px;
+	height: 321px;
+	padding: 5px;
+}
+
+.brand-imagery2{
+	display:flex;
+	justify-content: space-around;
+	align-items: flex-start;
+	padding-bottom: 70px;
+}
+
+.image-4{
+	width:565px;
+	height:565px;
+	padding: 5px;
+	
+}
+
+.image-5{
+	width:496px;
+	height:565px;
+	padding: 5px;
+
+}
+
+.image-6{
+	width:448px;
+	height:559px;
+	padding: 5px;
+	
 }
